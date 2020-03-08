@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"../SASS/style.sass"
+	],
+	"sourcesContent": [
+		"body {\n    background-color: #b6d3b9;\n    color: #ddc4c4;\n    button {\n        width: 20px + 20px; } }\n"
+	],
+	"names": [],
+	"mappings": ";AAAA,AAAA,IAAI,CAAC;EACD,gBAAgB,EAAE,OAAO;EACzB,KAAK,EAAE,OAAO;CAEa;;;AAJ/B,AAGI,IAHA,CAGA,MAAM,CAAC;EACH,KAAK,EAAE,IAAW;CAAG"
+}
